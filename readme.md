@@ -1,1 +1,2 @@
-##### Practising git hub command
+##### Practising by developer a story
+
